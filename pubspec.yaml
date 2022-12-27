@@ -37,8 +37,9 @@ dependencies:
   shared_preferences: 2.0.15
   http: 0.13.5
   cloud_firestore: 4.3.0
+  cloud_firestore_web: 3.2.0
   firebase_core: ^2.4.0
-  flutter_webrtc: 0.9.18
+  flutter_webrtc: 0.6.6
   share: 2.0.4
   fluttertoast: 8.1.2
   flutter_launcher_icons: ^0.11.0
