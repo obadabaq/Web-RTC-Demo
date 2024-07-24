@@ -1,16 +1,3 @@
-# web_rtc_demo
+# Web_RTC_Demo
 
-WEBRTC Demo
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a Flutter project that showcases real-time communication capabilities using WebRTC technology. This demo application enables users to establish peer-to-peer audio and video connections directly through their web browsers. With a user-friendly interface, it highlights features such as video streaming, text chat, and connection management, demonstrating the seamless integration of WebRTC in a Flutter environment. Perfect for developers looking to explore real-time applications, this project serves as a solid foundation for building advanced communication tools.
